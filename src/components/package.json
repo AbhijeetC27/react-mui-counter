@@ -1,0 +1,24 @@
+{
+  "name": "react-mui-counter",
+  "version": "1.0.0",
+  "description": "A counter component based on Material UI and React",
+  "main": "Counter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Counter"
+  ],
+  "author": "Abhijeet Chowdhury",
+  "license": "ISC",
+  "peerDependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.5.1",
+    "@mui/material": "^5.5.2",
+    "@mui/styles": "^5.5.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "5.0.0"
+  }
+}
